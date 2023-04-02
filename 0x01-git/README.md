@@ -1,15 +1,7 @@
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	bash/README.md
-	c/
-	js/
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[main f093ab2] Starting to code today, so cool
+ 5 files changed, 19 insertions(+), 1 deletion(-)
+ rewrite 0x01-git/README.md (100%)
+ create mode 100644 0x01-git/bash/README.md
+ create mode 100644 0x01-git/c/c_is_fun.c
+ create mode 100644 0x01-git/js/index.js
+ create mode 100644 0x01-git/js/main.js
